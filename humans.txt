@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vishesh B -- Admin-- vb1234
 
 # THANKS
 
