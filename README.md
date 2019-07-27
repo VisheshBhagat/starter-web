@@ -11,3 +11,8 @@ This is sample file
 
 ## How to contribute
 Please fork this repository and then issue pulll request for review.
+
+
+### Copyright
+
+2014 Git. Training. All rightd reserved
